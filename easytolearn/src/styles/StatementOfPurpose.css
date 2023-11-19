@@ -1,0 +1,51 @@
+/* styles/StatementOfPurpose.css */
+
+/* Background color and basic styling */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Set your desired background color */
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff; /* Set your desired background color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .heading {
+    text-align: center;
+    color: #333;
+  }
+  
+  .labels {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical; /* Allow vertical resizing of textarea */
+  }
+  
+  .button {
+    background-color: #007bff; /* Set your desired button color */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #0056b3; /* Set your desired button color on hover */
+  }
+  
